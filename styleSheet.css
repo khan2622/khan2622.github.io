@@ -1,0 +1,73 @@
+body{
+    font-family: comic, times,helvetica;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+
+
+header{
+    background: rgb(90,90,90);
+    color:white;
+    border-bottom:orange 3px solid;
+    min-height: 120px;
+    
+}
+
+header h1{
+    float:left;
+    margin-top: 50px;
+    
+}
+
+nav{
+    float: right;
+    margin-top: 50px;
+}
+
+header li{
+    
+    display: inline;
+    margin: 10px;
+    font-size: 20px;
+    color:red;
+    
+}
+
+header a{
+    text-decoration:none;
+    color:red;
+    text-transform: uppercase;
+    
+}
+#showcase{
+    min-height: 500px;
+    color:red;
+}
+#showcase h1{
+    color:blue;
+}
+
+#hats{
+    margin-top: 20px;
+}
+
+.hat{
+    float: left;
+    width: 33%;
+    text-align:center;
+}
+
+.hat h3{
+    color:blue;
+}
+
+
+
+footer{
+    background-color:rgb(90,90,90)
+    color:white;
+    margin-top:10px;
+    border-top: lime 3px solid;
+}
