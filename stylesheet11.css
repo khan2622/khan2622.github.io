@@ -1,0 +1,278 @@
+body{
+    font-family: comic, times, helvetica;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+     background-color: rgb(30,30,30);\
+    background: url("sunset.png.jpg") no-repeat -200px -20px;
+    
+    color: white;
+    
+   
+}
+
+
+
+header{
+    background-color: gold;
+    border-bottom:gold 3px solid;
+    min-height: 20px;
+    
+}
+
+header h1{
+    float:left;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+
+nav{
+    float: right;
+    margin-top: 50px;
+}
+
+header li{
+    
+    display: inline;
+    margin: 10px;
+    font-size: 20px;
+    
+    
+}
+
+header a{
+    text-decoration:none;
+    color:white;
+    text-transform: uppercase;
+    
+}
+#showcase{
+    min-height: 500px;
+    color:blue;
+}
+#showcase h1{
+    color:blue;
+}
+
+#hats{
+    margin-top: 20px;
+}
+
+.hat{
+    float: left;
+    width: 33%;
+    text-align:center;
+}
+
+.hat h3{
+    color:blue;
+}
+
+
+footer li{
+    
+    list-style: none;
+}
+
+
+
+footer{
+    background-color:rgb(90,90,90);
+    color:white;
+    margin-top:10px;
+    border-top: lime 3px solid;
+    margin:auto;
+    
+}
+
+#showcaseBio{
+    float:left;
+    color:white;
+    background: url("sunset.png.jpg") no-repeat -200px -20px;
+        width: 100%;
+        
+       
+        
+   
+        
+}
+
+#showcasebio1{
+    
+      background-color:rgb(0,0,0);
+    
+    float:left;
+    color:white;
+    background: url("sunset.png.jpg") no-repeat -200px -20px;
+        width: 100%;
+    
+        
+        
+        
+   
+        
+}
+
+#sidebar h1{
+    color: blue;
+}
+#sidebar{
+    margin-top: 30px;
+    color:white;
+    float:right;
+    width: 100%;
+    background-color: rgb(90,90,90);
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+}
+
+div {
+    display: block;
+}
+
+div {
+    display: block;
+}
+
+
+
+#info p {
+    font-size: 19px;
+}
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+#info {
+    min-height: 2000px;
+    background: url("sunset.png.jpg") no-repeat -200px -20px;
+    text-align: center;
+    
+    
+    
+    
+   
+   
+        width: 100%;
+    
+}
+
+
+element.style {
+    width: 1000px;
+    height: 400px;
+    list-style: none;
+}
+
+#info {
+    min-height: 800px;
+    background-color: rgb(69,69,69);
+    text-align: center;
+}
+
+
+
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+header {
+    background-color: Black;
+    border-bottom: gold 3px solid;
+    font-size: 20px;
+}
+
+
+element.style {
+    list-style: none;
+}
+
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+
+
+
+
+
+header a:visited, header a:link {
+    text-decoration: none;
+   
+}
+a:-webkit-any-link {
+    
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+header li {
+    display: inline;
+    
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+Style Attribute {
+    list-style: none;
+}
+
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+
+
+#showcaseproject{
+    float:left;
+    color:white;
+    width: 100%;
+    
+}
+
+.highlight{
+    color: Yellow;
+}
+
+a: hover{
+    background-color: blue;
+}
